@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <script type="text/javascript">var host = window.location.hostname; if (host == "demoqm2.azurewebsites.net") { document.write("<title>JSP Azure</title>") } else if (host == "localhost") { document.write("<title>JSP Tomcat</title>") } else document.write("<title>JSP Docker</title>")</script>
+    <script type="text/javascript">var host = window.location.hostname; if (host == "demoqm2.azurewebsites.net") { document.write("<title>JSP Azure</title>") } else if (host == "localhost") { document.write("<title>JSP JBoss EAP 7.1</title>") } else document.write("<title>JSP Docker</title>")</script>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
