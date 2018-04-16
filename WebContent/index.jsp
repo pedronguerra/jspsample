@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <script type="text/javascript">var host = window.location.hostname; if (host == "demoqm2.azurewebsites.net") { document.write("<title>JSP Azure</title>") } else if (host == "localhost") { document.write("<title>JSP JBoss EAP 7.1</title>") } else document.write("<title>JSP Docker</title>")</script>
+	<title>JSP JBoss EAP 7.1</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top"><script type="text/javascript">var host = window.location.hostname; if (host == "demoqm2.azurewebsites.net") { document.write("Hosted in Azure") } else if (host == "localhost") { document.write("Hosted in JBoss EAP 7.1") } else document.write("Hosted in Tomcat (Docker)")</script></a>
+                <a class="navbar-brand" href="#page-top">Hosted in JBoss EAP 7.1</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                	<script type="text/javascript">var host = window.location.hostname; if (host == "demoqm2.azurewebsites.net") { document.write("<img class=\"img-responsive\" src=\"img/azure_logo.png\">") } else if (host == "localhost") { document.write("<img class=\"img-responsive\" src=\"img/tomcat_logo.png\">") } else document.write("<img class=\"img-responsive\" src=\"img/docker_logo.png\">")</script>
+                	<img class="img-responsive" src="img/jboss_logo.png">
                     <div class="intro-text">
                         <span class="name">JSP Demo</span>
                         <hr class="star-light">
