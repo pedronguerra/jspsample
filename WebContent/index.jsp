@@ -46,7 +46,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top"><script type="text/javascript">var host = window.location.hostname; if (host == "demoqm2.azurewebsites.net") { document.write("Hosted in Azure") } else if (host == "localhost") { document.write("Hosted in Tomcat (localhost)") } else document.write("Hosted in Tomcat (Docker)")</script></a>
+                <a class="navbar-brand" href="#page-top"><script type="text/javascript">var host = window.location.hostname; if (host == "demoqm2.azurewebsites.net") { document.write("Hosted in Azure") } else if (host == "localhost") { document.write("Hosted in JBoss EAP 7.1") } else document.write("Hosted in Tomcat (Docker)")</script></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
